@@ -1,1 +1,1 @@
-# GanesBoth
+# Ganes Both
